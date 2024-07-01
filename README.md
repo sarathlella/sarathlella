@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sarathlella.work@gmail.com**
 
-- 📄 Know about my experiences [sarathlella.github.io](sarathlella.github.io)
+- 📄 Know about my experiences **sarathlella.github.io**
 
 - ⚡ Fun fact **I play drums**
 
