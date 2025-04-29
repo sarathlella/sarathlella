@@ -23,8 +23,7 @@
 
 📌 Featured Portfolio: [sarathlella.github.io](https://sarathlella.github.io)  
 📫 Reach me: sarathlella.work@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/sarath-lella](https://linkedin.com/in/sarathlella)  
-🧠 Resume: [CV (PDF)](https://github.com/sarathlella/sarathlella/raw/main/SarathLella_CV.pdf)
+🔗 LinkedIn: [linkedin.com/in/sarathlella](https://linkedin.com/in/sarathlella)  
 
 ---
 
