@@ -58,8 +58,3 @@
 ---
 
 🧠 Let's build the future of intelligent systems — responsibly, scalably, and openly.
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathlella&show_icons=true&locale=en" alt="sarathlella" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarathlella&" alt="sarathlella" /></p>
